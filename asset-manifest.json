@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/Beb/static/css/main.91c10efe.chunk.css",
+    "main.js": "/Beb/static/js/main.d89ce5ad.chunk.js",
+    "main.js.map": "/Beb/static/js/main.d89ce5ad.chunk.js.map",
+    "runtime-main.js": "/Beb/static/js/runtime-main.cf10ae25.js",
+    "runtime-main.js.map": "/Beb/static/js/runtime-main.cf10ae25.js.map",
+    "static/js/2.b42d10b4.chunk.js": "/Beb/static/js/2.b42d10b4.chunk.js",
+    "static/js/2.b42d10b4.chunk.js.map": "/Beb/static/js/2.b42d10b4.chunk.js.map",
+    "static/js/3.5372a201.chunk.js": "/Beb/static/js/3.5372a201.chunk.js",
+    "static/js/3.5372a201.chunk.js.map": "/Beb/static/js/3.5372a201.chunk.js.map",
+    "index.html": "/Beb/index.html",
+    "static/css/main.91c10efe.chunk.css.map": "/Beb/static/css/main.91c10efe.chunk.css.map",
+    "static/js/2.b42d10b4.chunk.js.LICENSE.txt": "/Beb/static/js/2.b42d10b4.chunk.js.LICENSE.txt",
+    "static/media/camera.95a630b5.png": "/Beb/static/media/camera.95a630b5.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.cf10ae25.js",
+    "static/js/2.b42d10b4.chunk.js",
+    "static/css/main.91c10efe.chunk.css",
+    "static/js/main.d89ce5ad.chunk.js"
+  ]
+}
